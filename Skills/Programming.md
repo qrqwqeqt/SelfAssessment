@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🎓 known
-  - identifier: 🎓 known
-  - variable: 🎓 known
-  - constant: 🎓 known
-  - scalar: 🎓 known
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
   - literal: 👂 heard
   - expression
   - heap
-  - function: 🎓 known
-  - procedure: 🎓 known
-  - method: 👂 heard
-  - class: 👂 heard
-  - prototype: 👂 heard
-  - event: 👂 heard
-  - type: 👂 heard
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🙋 explained
+  - class: 🙋 explained
+  - prototype: 🎓 known
+  - event: 🎓 known
+  - type: 🎓 known
   - primitive types
   - reference types
   - flag: 👂 heard
   - lexical scope
   - code block
-  - conditions: 👂 heard
-  - loops: 🎓 known
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
   - assignment 
   - regular expression
   - interface: 👂 heard
@@ -31,21 +31,21 @@
   - call stack
 - Functions
   - signature
-  - argument: 🎓 known
-  - parameter: 🎓 known
-  - pure function: 🎓 known
-  - lambda expression: 👂 heard
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🎓 known
   - side effects: 👂 heard
   - closure: 👂 heard
   - partial application
-  - curry: 👂 heard
+  - curry: 🎓 known
   - higher order: 👂 heard
   - recursion: 🖐️ used
   - callback: 🖐️ used
   - listener
   - compose
   - pipe
-  - memoize: 🖐️ used
+  - memoize🎓 known
   - wrapper
   - functor
   - monad
@@ -53,16 +53,16 @@
   - generator
   - coroutine
 - Data structures
-  - array: 🖐️ used
-  - structure: 🖐️ used
+  - array: 🙋 explained
+  - structure: 🙋 explained
   - record
   - enum
-  - instance: 🖐️ used
-  - object: 🖐️ used
-  - class: 🖐️ used
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
   - collection: 🖐️ used
   - set: 🖐️ used
-  - hash table: 🖐️ used
+  - hash table: 🙋 explained
   - linked list: 🖐️ used
   - doubly list: 🖐️ used
   - unrolled list
