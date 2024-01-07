@@ -92,7 +92,7 @@
   - TLS
   - Websocket: 👂 heard
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
   - REST
   - RPC
@@ -130,9 +130,9 @@
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
+  - Data access layer: 👂 heard
   - Repository: 👂 heard
-  - Active record
+  - Active record: 👂 heard
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging

@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof: 👂 heard
+  - typeof: 🖐️ used
   - destructuring
   - generator
   - iterator
@@ -22,10 +22,10 @@
   - IIFE
   - global
   - globalThis
-  - window: 👂 heard
+  - window: 🖐️ used
   - getters and setters
   - __proto__
-  - prototype: 👂 heard
+  - prototype: 🖐️ used
   - equality operators
   - logical operators
   - bitwise operators
@@ -56,7 +56,7 @@
   - label
   - try..catch: 🖐️ used
   - switch: 🖐️ used
-  - class: 👂 heard
+  - class: 🖐️ used
   - new Error
   - with
 - Functions

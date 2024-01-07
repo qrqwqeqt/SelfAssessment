@@ -1,9 +1,9 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
-  - try..catch: 👂 heard
-  - Non-blocking:
+  - Event loop: 🖐️ used
+  - try..catch: 🖐️ used
+  - Non-blocking
   - Async I/O: 👂 heard
   - Thread pool
   - Pattern Reactor
