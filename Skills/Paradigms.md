@@ -6,7 +6,7 @@
   - Structured programming
   - Non-structured programming
   - Functional programming: 🎓 known
-  - Prototype-based programming
+  - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
@@ -21,28 +21,28 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
+  - constructor: 👂 heard
+  - new: 👂 heard
   - Static method
   - Method: 👂 heard
-  - Async method
+  - Async method: 👂 heard
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
   - Abstract class
-  - Interface
+  - Interface: 🖐️ used
   - Encapsulation
-  - Hidden class
+  - Hidden class: 👂 heard
   - Object form
-  - instance
+  - instance: 🖐️ used
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
+  - Singleton: 👂 heard
   - Factory Method
   - Abstract Factory
   - Adapter
@@ -55,7 +55,7 @@
   - Iterator: 🖐️ used
   - State
   - Bridge
-  - Builder
+  - Builder: 👂 heard
   - Prototype: 👂 heard
   - Composite
   - Decorator
